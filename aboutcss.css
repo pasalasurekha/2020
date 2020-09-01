@@ -1,0 +1,23 @@
+body{
+	background-color:black;
+	height:250x;
+
+}
+h6{
+	color: white;
+	text-align: center;
+}
+	
+h4{
+	color:white;
+}
+p{
+	color: white;
+}
+footer{
+	margin-top:15%;
+	text-align: center;
+	color:black;
+	background-color:pink;
+
+}
